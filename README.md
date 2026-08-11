@@ -8,8 +8,9 @@
 
 [![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](LICENSE)
 [![Discord](https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white)](https://riffado.com/discord)
+[![Sponsor](https://img.shields.io/badge/sponsor-riffado-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/riffado)
 
-[Quick start](#quick-start) • [Documentation](https://riffado.com/docs) • [Discord](https://riffado.com/discord)
+[Quick start](#quick-start) • [Documentation](https://riffado.com/docs) • [Discord](https://riffado.com/discord) • [Sponsor](https://github.com/sponsors/riffado)
 
 </div>
 
@@ -91,6 +92,20 @@ Everything lives at **[riffado.com/docs](https://riffado.com/docs)**. Direct lin
 - [Encryption at rest](https://riffado.com/docs/reference/encryption-at-rest)
 - [Security model](https://riffado.com/docs/reference/security-model)
 - [Architecture](https://riffado.com/docs/reference/architecture)
+
+## Sponsors
+
+Riffado is AGPL-3.0 and stays that way. Sponsorship is what pays for the parts
+that aren't fun: chasing vendor API changes that break sync, buying recorders to
+test new device support against, CI and registry costs, and the mobile app.
+
+[**Sponsor Riffado on GitHub &rarr;**](https://github.com/sponsors/riffado)
+
+If your team self-hosts Riffado at work, a company tier is the cheapest
+maintenance contract you'll ever buy.
+
+<!-- sponsors -->
+<!-- /sponsors -->
 
 ## Contributing
 
